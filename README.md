@@ -1,5 +1,12 @@
 # Spectrum Analyzer
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/Platform-macOS-blue.svg)](https://www.apple.com/macos/)
+[![C++](https://img.shields.io/badge/C++-20-00599C.svg?logo=c%2B%2B)](https://isocpp.org/)
+[![JUCE](https://img.shields.io/badge/JUCE-Framework-8DC63F.svg)](https://juce.com/)
+[![VST3](https://img.shields.io/badge/VST3-Supported-orange.svg)](https://www.steinberg.net/vst3/)
+[![AU](https://img.shields.io/badge/Audio%20Unit-Supported-purple.svg)](https://developer.apple.com/documentation/audiounit)
+
 ![Spectrum Analyzer Screenshot](docs/screenshot.png)
 
 高精度なリアルタイムスペクトラムアナライザプラグイン。JUCEフレームワークで構築された、サイバーパンク風の未来的なビジュアルが特徴です。
